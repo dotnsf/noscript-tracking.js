@@ -38,6 +38,14 @@ https://gist.github.com/wybiral/c8f46fdf1fc558d631b55de3a0267771
 
 https://news.mynavi.jp/article/20190513-821167/
 
+
+## Licensing
+
+This code is licensed under MIT.
+
+https://github.com/dotnsf/noscript-tracking.js/blob/master/LICENSE
+
+
 ## Copyright
 
 2019 K.Kimura @ Juge.Me all rights reserved.
